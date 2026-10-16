@@ -14,4 +14,4 @@
 
 - 실행 시 자동으로 최신버전과 비교해 업데이트 합니다.
   
-[최초 다운로드](ttps://github.com/ckslcksl/program-updates/releases/tag/setup)
+[최초 다운로드](https://github.com/ckslcksl/program-updates/releases/tag/setup)
