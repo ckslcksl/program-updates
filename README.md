@@ -13,4 +13,5 @@
 - 법령 위반, 무단 접근, 사기, 스팸, 괴롭힘 등 불법적인 목적 또는 행위에 사용하는 것을 금지합니다.
 
 - 실행 시 자동으로 최신버전과 비교해 업데이트 합니다.
+  
 [최초 다운로드](ttps://github.com/ckslcksl/program-updates/releases/tag/setup)
